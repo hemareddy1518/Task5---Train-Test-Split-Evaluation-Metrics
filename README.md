@@ -73,3 +73,17 @@ To build a basic classification model that predicts whether a person has heart d
 | 73 | 29 |
 |--------|-------|
 | 13 | 90 |
+
+## Interpretation
+- Accuracy shows the overall correctness of the model.
+- Precision shows how many predicted positives were truly positive.
+- Recall shows how many actual positives were correctly identified.
+- Confusion matrix explains TP, TN, FP, FN clearly.
+
+---
+
+## Conclusion
+A Logistic Regression model was trained successfully and evaluated using standard classification metrics. The evaluation results indicate the model performs reasonably well in predicting heart disease cases.
+
+---
+
